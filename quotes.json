@@ -1,0 +1,46 @@
+[
+  {
+    "quote_title": "Enterprise Solutions for ABC Corp",
+    "quote_date": "2024-09-01T09:00:00Z",
+    "associated_account": {
+      "account_id": "66c639b334d3592891150743",
+      "account_name": "ABC Corp"
+    },
+    "associated_contact": {
+      "contact_id": "66c63a4034d3592891150746",
+      "contact_name": "John Doe",
+      "contact_email": "john.doe@abccorp.com"
+    },
+    "products": [
+      {
+        "product_id": "66c63a9834d3592891150749",
+        "product_name": "Product A",
+        "quantity": 10,
+        "unit_price": 50,
+        "total_price": 500
+      },
+      {
+        "product_id": "66c63a9834d359289115074a",
+        "product_name": "Product B",
+        "quantity": 5,
+        "unit_price": 100,
+        "total_price": 500
+      },
+      {
+        "product_id": "66c63a9834d359289115074b",
+        "product_name": "Product C",
+        "quantity": 2,
+        "unit_price": 200,
+        "total_price": 400
+      }
+    ],
+    "total_price": 1400,
+    "discount": 100,
+    "final_price": 1300,
+    "quote_description": "This quote includes products A, B, and C.",
+    "status": "Draft",
+    "created_by": "system",
+    "created_at": "2024-09-01T09:00:00Z",
+    "updated_at": "2024-09-01T09:00:00Z"
+  }
+]

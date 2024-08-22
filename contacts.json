@@ -1,0 +1,24 @@
+[
+  {
+    "contact_name": "John Doe",
+    "email": "john.doe@abccorp.com",
+    "phone": "123-456-7891",
+    "mobile": "123-555-7891",
+    "department": "Sales",
+    "account_id": "66c639b334d3592891150743",
+    "created_by": "system",
+    "created_at": "2024-08-08T12:00:00Z",
+    "updated_at": "2024-08-08T12:00:00Z"
+  },
+  {
+    "contact_name": "Jane Smith",
+    "email": "jane.smith@xyzindustries.com",
+    "phone": "987-654-3211",
+    "mobile": "987-555-3211",
+    "department": "Procurement",
+    "account_id": "66c639b334d3592891150744",
+    "created_by": "system",
+    "created_at": "2024-08-08T12:00:00Z",
+    "updated_at": "2024-08-08T12:00:00Z"
+  }
+]

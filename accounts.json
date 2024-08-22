@@ -1,0 +1,38 @@
+[
+  {
+    "account_name": "ABC Corp",
+    "industry": "Technology",
+    "employees": 150,
+    "annual_revenue": 5000000,
+    "phone": "123-456-7890",
+    "website": "http://www.abccorp.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip_code": "94105",
+      "country": "USA"
+    },
+    "created_by": "system",
+    "created_at": "2024-08-08T12:00:00Z",
+    "updated_at": "2024-08-08T12:00:00Z"
+  },
+  {
+    "account_name": "XYZ Industries",
+    "industry": "Manufacturing",
+    "employees": 300,
+    "annual_revenue": 20000000,
+    "phone": "987-654-3210",
+    "website": "http://www.xyzindustries.com",
+    "address": {
+      "street": "456 Industrial Rd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": "90001",
+      "country": "USA"
+    },
+    "created_by": "system",
+    "created_at": "2024-08-08T12:00:00Z",
+    "updated_at": "2024-08-08T12:00:00Z"
+  }
+]
